@@ -1,0 +1,13 @@
+torch
+torchvision
+Pillow                
+scikit-image         
+tqdm
+opencv-python       
+trimesh
+PyOpenGL
+ffmpeg
+pycocotools
+opencv-python
+numpy
+
