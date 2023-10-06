@@ -1,5 +1,5 @@
 # Mesh-ix
-Mesh-ix is a rewritten version pyfuHD that converts an image into a 3d mesh of the clothed individual.
+Mesh-ix is a completely rewritten version pyfuHD that converts an image into a 3d clothed mesh of the individual in the image.
 
 ## Installation
 
